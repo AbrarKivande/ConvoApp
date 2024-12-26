@@ -14,7 +14,7 @@ ConvoApp is a full stack (dynamic and responsive) web application that allows us
 
 ## Author
 
--   Shekhar Thakur - follow me on 👇
+-   Abrar Kivande - follow me on 👇
 -   [GitHub](https://github.com/AbrarKivande/ConvoApp.git)
 -   [LinkedIn](https://www.linkedin.com/in/abrarkivande/)
 
